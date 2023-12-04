@@ -1,0 +1,16 @@
+{
+	"name": "amossenkao",
+	"version": "1.0.0",
+	"description": "A personal portfolio website for Amos Senkao",
+	"main": "index.js",
+	"scripts": {
+		"start": "bash deploy.sh",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Amos Senkao",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
